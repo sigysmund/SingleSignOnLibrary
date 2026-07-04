@@ -1,5 +1,8 @@
 {
-    "name": "korotovsky/sso-library",
+    "name": "sigysmund/sso-library",
+    "replace": {
+        "korotovsky/sso-library": "0.3.*"
+    },
     "type": "library",
     "description": "Single-sign-on library for Symfony2",
     "keywords": ["single-sign-on", "sso", "login", "otp"],
